@@ -1,5 +1,4 @@
-[build]
-  base = "Mlbb_web"
+[build] 
   command = "pip install -r requirements.txt && python -m reflex export"
   publish = "Mlbb_web/.web/public"
 
