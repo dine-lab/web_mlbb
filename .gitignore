@@ -1,6 +1,18 @@
+# Ignorar archivos de Python compilados
 *.py[cod]
-assets/external/
-.states
-*.db
+*.pyc
+
+# Ignorar directorios de caché de Python
 __pycache__/
-.web
+
+# Ignorar entornos virtuales
+.venv/
+
+# Ignorar archivos de base de datos
+*.db
+
+# Ignorar archivos temporales y de configuración
+.states
+.web/
+assets/external/
+
