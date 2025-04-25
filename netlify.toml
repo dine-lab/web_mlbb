@@ -1,6 +1,7 @@
-[build] 
+[build]
+  base = "Mlbb_web"
   command = "pip install -r requirements.txt && python -m reflex export"
-  publish = "Mlbb_web/.web/public"
+  publish = ".web/public"
 
 [build.environment]
   PYTHON_VERSION = "3.11"
