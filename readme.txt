@@ -1,19 +1,18 @@
-# 🌟 MLBB Web
+# MLBB Web
 
 Sitio web sobre Mobile Legends: Bang Bang creado con [Reflex](https://reflex.dev), una librería de Python para construir interfaces web modernas.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - 🐍 Python 3.11
 - ⚛️ Reflex
-- ☁️ Netlify (para el despliegue)
 - 🧠 Git & GitHub
 
 ---
 
-## 🛠️ Cómo correr el proyecto localmente
+## Cómo correr el proyecto localmente
 
 1. Clona el repositorio:
 
@@ -43,7 +42,7 @@ Sitio web sobre Mobile Legends: Bang Bang creado con [Reflex](https://reflex.dev
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 Mlbb_web/
@@ -53,15 +52,12 @@ Mlbb_web/
 ├── .venv/               # Entorno virtual (excluido del repo)
 ├── requirements.txt     # Dependencias del proyecto
 ├── rxconfig.py          # Configuración Reflex
-└── README.md            # Este archivo 😎
+└── README.md            # Este archivo 
 ```
 
 ---
 
 ## 🌐 Despliegue
-
-La app está desplegada en Netlify. Visítala aquí:  
-👉 https://mlbb-bpds.netlify.app (reemplaza esto con tu URL real)
 
 ---
 
